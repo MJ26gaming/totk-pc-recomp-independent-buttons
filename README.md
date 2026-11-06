@@ -1,6 +1,6 @@
-# TotK Recomp
+# TotK Recomp - Indepedent controls
 
-**TotK Recomp** is a static recompilation of *The Legend of Zelda: Tears of the Kingdom* (Nintendo Switch, 2023) into a native x86-64 application for Windows and Linux ([docs/architecture.md](docs/architecture.md)).
+**TotK Recomp** is a static recompilation of *The Legend of Zelda: Tears of the Kingdom* (Nintendo Switch, 2023) into a native x86-64 application for Windows and Linux ([docs/architecture.md](docs/architecture.md)). This fork aims to seperate the actions of link from the buttons on the switch controller, so that keys can be bound for each action. I started this cause I don't like how theres no way to A to be both jump and interact on an Xbox controller. Disclaimer: I know nothing about coding basically, except for like Python fundamentals. This whole thing is cuck-coded with 6.1 Sol. We love slop, right? I'm hoping to get it merged into main as this seems like a popular feature. It uses some of the work done by the Weeping of the Empire folks.
 
 > [!IMPORTANT]
 > **No game files are included.** You need your own legally obtained copy of *Tears of the Kingdom*, dumped from your own console: the base game and the 1.1.0, 1.2.1 or 1.4.3 update. Instructions for obtaining those files will not be provided.
